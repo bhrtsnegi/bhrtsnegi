@@ -11,7 +11,7 @@
 - 📫 How to reach me **1bhrtsnegi@gmail.com**
 
 - 📄 Know about my experiences [https://bhrtsnegi.github.io/assets/resume/resume.png](https://bhrtsnegi.github.io/assets/resume/resume.png)
-
+</br>
 - ⚡ Fun fact **I like to influence people but influencing me is bit difficult**
 
 <h3 align="left">Connect with me:</h3>
