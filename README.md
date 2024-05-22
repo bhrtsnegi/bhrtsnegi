@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhrtsnegi&label=Profile%20views&color=0e75b6&style=flat" alt="bhrtsnegi" /> </p>
 
-- 🌱 I’m currently learning **React, C++ DSA**
+- 🌱 I’m currently learning **React, C++ DSA, DBMS**
 
-- 💬 Ask me about **React, C++, CP**
+- 💬 Ask me about **React, C++, CP, DBMS**
 
 - 📫 How to reach me **1bhrtsnegi@gmail.com**
 
