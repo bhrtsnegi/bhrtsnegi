@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhrtsnegi&label=Profile%20views&color=0e75b6&style=flat" alt="bhrtsnegi" /> </p>
 
-- 🌱 I’m currently learning **Backend with Node.js, Express and MongoDb**
+- 🌱 Reading codebases and writing some
 
 - 💬 Ask me about **React.js, Node.js, C++, CP, DBMS**
 
