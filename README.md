@@ -32,7 +32,7 @@
     </td>
     <td align="center">
       <h4>Back-End</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,nginx" />
+      <img src="https://skillicons.dev/icons?i=springboot,nodejs,express,fastapi,graphql,nginx" />
     </td>
     <td align="center">
       <h4>Database</h4>
@@ -40,7 +40,7 @@
     </td>
     <td align="center">
       <h4>Programming Languages</h4>
-      <img src="https://skillicons.dev/icons?i=cpp,typescript,javascript" />
+      <img src="https://skillicons.dev/icons?i=java,cpp,typescript,javascript" />
     </td>
     <td align="center">
       <h4>Tools & Platforms</h4>
