@@ -108,15 +108,6 @@ focus_areas:
 | **🏡 MERN Estate** | Real estate marketplace with authentication, listings, and advanced search filters. | `React` `Node.js` `Express` `MongoDB` | [View Repo](https://github.com/bhrtsnegi/mern-estate) |
 | **⚡ LeetCode Whisper** | Chrome extension to streamline algorithmic problem solving and code analysis. | `JavaScript` `Chrome Extensions API` | [View Repo](https://github.com/bhrtsnegi/leetcode-whisper-chrome-extension) |
 
----
-
-### 🎓 Education & Certifications
-
-- **MCA** — Central University of Haryana (2022 – 2024) · GPA 8.23/10
-- **BCA** — Kumaon University, Nainital (2017 – 2020) · GPA 8.0/10
-- **Certifications**: Full Stack Web Development: JavaScript and Node.js (Coursera / Meta) · Spring Boot Fundamentals (Udemy)
-
----
 
 ### 📊 GitHub & Coding Activity
 
