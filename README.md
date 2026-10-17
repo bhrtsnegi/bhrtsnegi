@@ -1,5 +1,12 @@
 <div align="center">
 
+  <!-- Portfolio Highlight -->
+  <a href="https://bhrtsnegi.github.io">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VIEW%20MY%20PORTFOLIO-bhrtsnegi.github.io-6366F1?style=for-the-badge&labelColor=1e1b4b" alt="View my portfolio" height="48" />
+  </a>
+
+  <br /><br />
+
   <!-- Animated Typing Banner -->
   <a href="https://bhrtsnegi.github.io">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Bharat+Negi;Software+Development+Engineer;Java+%2B+Spring+Boot+Backend+Engineer;REST+APIs+%7C+SQL+%7C+Microservices;Turning+Complex+Logic+into+Clean+Code" alt="Typing Banner" />
@@ -20,7 +27,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=bhrtsnegi&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/bhrtsnegi.svg?style=flat-square&label=Profile%20Views&color=6366f1&labelColor=1e1b4b" alt="Profile Views" />
   </p>
 
 </div>
@@ -108,6 +115,7 @@ focus_areas:
 | **🏡 MERN Estate** | Real estate marketplace with authentication, listings, and advanced search filters. | `React` `Node.js` `Express` `MongoDB` | [View Repo](https://github.com/bhrtsnegi/mern-estate) |
 | **⚡ LeetCode Whisper** | Chrome extension to streamline algorithmic problem solving and code analysis. | `JavaScript` `Chrome Extensions API` | [View Repo](https://github.com/bhrtsnegi/leetcode-whisper-chrome-extension) |
 
+---
 
 ### 📊 GitHub & Coding Activity
 
